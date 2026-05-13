@@ -1,0 +1,42 @@
+{
+  "businessName": "MIKELDRE VISION WORLD",
+  "industry": "Fashion and Creative Design",
+  "tone": "creative, vibrant, stylish",
+  "tagline": "Where Vision Meets Style",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "MIKELDRE VISION WORLD\n\nWhere Vision Meets Style\n\nExperience exceptional fashion and creative design that brings your vision to life. From bespoke tailoring to innovative design solutions, we transform your style aspirations into stunning reality.\n\nExplore Our Collections",
+      "imagePrompt": "A stunning fashion design studio in Abuja, Nigeria, with elegant fabric swatches in rich African prints and contemporary materials draped artistically, professional lighting illuminating a modern creative workspace, mannequins displaying exquisite custom garments, warm golden hour lighting, high-end fashion photography style, vibrant colors, photorealistic, 8k quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Your Vision, Our Passion\n\nAt MIKELDRE VISION WORLD, we are more than just a fashion house – we are creative partners in bringing your unique style to life. Based in the heart of Abuja, we specialize in bespoke fashion design and creative solutions that reflect the vibrant spirit of Nigerian elegance combined with contemporary trends.\n\nOur team of skilled designers and tailors are dedicated to understanding your vision and translating it into wearable art. Whether you're looking for custom attire for special occasions, corporate wear, or everyday fashion with a distinctive edge, we deliver excellence in every stitch.\n\nWe believe that fashion is personal, powerful, and transformative. That's why every piece we create is crafted with meticulous attention to detail, premium materials, and a deep understanding of what makes you uniquely you.",
+      "imagePrompt": "Interior of an upscale fashion design studio in Abuja, Nigeria, showing designers at work with fabric samples, sketches spread across a large wooden table, modern African-inspired decor, natural lighting through large windows, professional creative atmosphere, colorful textile rolls in background, contemporary Nigerian interior design, photorealistic, professional photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Tailored Excellence for Every Occasion\n\nBespoke Tailoring\nExperience the luxury of perfectly fitted garments designed exclusively for you. From elegant traditional attire to contemporary fashion statements, our master tailors create pieces that complement your personality and lifestyle.\n\nCreative Design Consultation\nOur design experts work closely with you to conceptualize and bring your fashion ideas to life. Whether you have a clear vision or need guidance, we transform concepts into stunning reality.\n\nEvent & Ceremonial Wear\nMake unforgettable impressions at weddings, corporate events, and special celebrations with our custom-designed event wear. We specialize in aso-ebi coordination, bridal fashion, and statement pieces.\n\nCorporate & Professional Attire\nElevate your professional image with our tailored corporate wear collection. We create sophisticated, comfortable outfits that command respect in any business setting.\n\nFashion Styling Services\nFrom wardrobe consultation to complete style transformation, our styling services help you discover and refine your personal fashion identity.\n\nAlterations & Restyling\nBreathe new life into existing garments with our expert alteration and restyling services. We transform and update your wardrobe pieces to current trends.",
+      "imagePrompt": "A luxurious fashion boutique display in Abuja showcasing various elegant garments, including flowing traditional Nigerian attire, sharp business suits, and contemporary fashion pieces on elegant mannequins, professional boutique lighting, rich textures visible in fabrics, modern retail interior with African artistic touches, high-end fashion photography, photorealistic, vibrant yet sophisticated color palette",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Let's Create Something Beautiful Together\n\nReady to bring your fashion vision to life? Visit our studio or reach out to schedule a consultation. We're excited to be part of your style journey.\n\nMIKELDRE VISION WORLD\n\nAddress:\nHouse 33B Opposite Omega Church\nIdu-bola Karmo, Abuja\nNigeria\n\nPhone:\n0706 101 9255\n\nBusiness Hours:\nMonday - Saturday: 9:00 AM - 6:00 PM\nSunday: By Appointment Only\n\nConnect with us today and discover the difference that personalized fashion design can make.",
+      "imagePrompt": "Welcoming exterior of a modern fashion boutique in Abuja, Nigeria, with elegant signage, well-maintained storefront, tropical plants flanking the entrance, warm inviting lighting in evening, professional commercial photography, contemporary African architectural elements, clean and sophisticated aesthetic, photorealistic, 8k quality",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0706 101 9255",
+    "email": "",
+    "address": "House 33B Opposite Omega Church Idu-bola Karmo, Abuja, Nigeria",
+    "whatsapp": "https://wa.me/2347061019255"
+  }
+}
