@@ -1,42 +1,49 @@
 {
-  "businessName": "MIKELDRE VISION WORLD",
-  "industry": "Fashion and Creative Design",
-  "tone": "creative, vibrant, stylish",
-  "tagline": "Where Vision Meets Style",
+  "businessName": "Zero Waste Haulage & Logistics Limited",
+  "industry": "Oil & Gas Transportation & Logistics",
+  "tone": "professional, authoritative, safety-focused",
+  "tagline": "Safe, Reliable Petroleum Transportation Across Nigeria",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "MIKELDRE VISION WORLD\n\nWhere Vision Meets Style\n\nExperience exceptional fashion and creative design that brings your vision to life. From bespoke tailoring to innovative design solutions, we transform your style aspirations into stunning reality.\n\nExplore Our Collections",
-      "imagePrompt": "A stunning fashion design studio in Abuja, Nigeria, with elegant fabric swatches in rich African prints and contemporary materials draped artistically, professional lighting illuminating a modern creative workspace, mannequins displaying exquisite custom garments, warm golden hour lighting, high-end fashion photography style, vibrant colors, photorealistic, 8k quality",
+      "copy": "Zero Waste Haulage & Logistics Limited\n\nYour Trusted Partner in Safe Petroleum Transportation\n\nWith decades of combined expertise in power infrastructure and oil & gas logistics, Zero Waste Petroleum Transport Co delivers uncompromising safety standards and reliable haulage services across Nigeria. We understand that every drop counts, and zero incidents is our only acceptable standard.\n\nGet a Quote Today",
+      "imagePrompt": "Photorealistic image of a modern fleet of petroleum tanker trucks lined up at dawn in an industrial depot in Abuja, Nigeria. Professional drivers in safety gear conducting pre-trip inspections. Clean, well-maintained silver and blue tankers with safety markings. Dramatic golden hour lighting with Nigerian landscape in background. Corporate, safety-focused atmosphere.",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Your Vision, Our Passion\n\nAt MIKELDRE VISION WORLD, we are more than just a fashion house – we are creative partners in bringing your unique style to life. Based in the heart of Abuja, we specialize in bespoke fashion design and creative solutions that reflect the vibrant spirit of Nigerian elegance combined with contemporary trends.\n\nOur team of skilled designers and tailors are dedicated to understanding your vision and translating it into wearable art. Whether you're looking for custom attire for special occasions, corporate wear, or everyday fashion with a distinctive edge, we deliver excellence in every stitch.\n\nWe believe that fashion is personal, powerful, and transformative. That's why every piece we create is crafted with meticulous attention to detail, premium materials, and a deep understanding of what makes you uniquely you.",
-      "imagePrompt": "Interior of an upscale fashion design studio in Abuja, Nigeria, showing designers at work with fabric samples, sketches spread across a large wooden table, modern African-inspired decor, natural lighting through large windows, professional creative atmosphere, colorful textile rolls in background, contemporary Nigerian interior design, photorealistic, professional photography",
+      "copy": "Leading the Standard in Petroleum Transportation\n\nZero Waste Haulage & Logistics Limited, operating as Zero Waste Petroleum Transport Co, is a premier oil and gas transportation company headquartered in Abuja, Nigeria. Founded and led by experienced power infrastructure engineers, we bring technical precision and safety excellence to every haul.\n\nOur commitment to zero waste and zero incidents drives everything we do. We combine industry-leading safety protocols with modern fleet management and real-time tracking to ensure your petroleum products arrive safely, on time, every time.\n\nWith our strategic location in Abuja and nationwide coverage, we serve major oil marketers, independent dealers, and industrial clients across Nigeria's oil and gas sector.",
+      "imagePrompt": "Professional interior shot of a modern logistics control room in Abuja, Nigeria. Large screens showing GPS fleet tracking across Nigerian map. Professional Nigerian operations managers monitoring tanker movements. Clean, high-tech environment with safety certifications on walls. Bright, corporate lighting conveying competence and reliability.",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Tailored Excellence for Every Occasion\n\nBespoke Tailoring\nExperience the luxury of perfectly fitted garments designed exclusively for you. From elegant traditional attire to contemporary fashion statements, our master tailors create pieces that complement your personality and lifestyle.\n\nCreative Design Consultation\nOur design experts work closely with you to conceptualize and bring your fashion ideas to life. Whether you have a clear vision or need guidance, we transform concepts into stunning reality.\n\nEvent & Ceremonial Wear\nMake unforgettable impressions at weddings, corporate events, and special celebrations with our custom-designed event wear. We specialize in aso-ebi coordination, bridal fashion, and statement pieces.\n\nCorporate & Professional Attire\nElevate your professional image with our tailored corporate wear collection. We create sophisticated, comfortable outfits that command respect in any business setting.\n\nFashion Styling Services\nFrom wardrobe consultation to complete style transformation, our styling services help you discover and refine your personal fashion identity.\n\nAlterations & Restyling\nBreathe new life into existing garments with our expert alteration and restyling services. We transform and update your wardrobe pieces to current trends.",
-      "imagePrompt": "A luxurious fashion boutique display in Abuja showcasing various elegant garments, including flowing traditional Nigerian attire, sharp business suits, and contemporary fashion pieces on elegant mannequins, professional boutique lighting, rich textures visible in fabrics, modern retail interior with African artistic touches, high-end fashion photography, photorealistic, vibrant yet sophisticated color palette",
+      "copy": "Comprehensive Petroleum Transportation Solutions\n\nBulk Petroleum Haulage\nSafe transportation of petrol (PMS), diesel (AGO), kerosene (DPK), and other petroleum products across Nigeria. Our modern fleet meets all regulatory requirements and safety standards.\n\nDepot-to-Station Logistics\nReliable depot pickup and delivery to filling stations nationwide. Real-time tracking and delivery confirmation for complete transparency and accountability.\n\nIndustrial Supply Services\nDedicated transportation solutions for industrial clients requiring consistent petroleum product supply. Flexible scheduling and volume commitments tailored to your operations.\n\nFleet Management & Tracking\nAdvanced GPS tracking on all vehicles. Real-time monitoring, route optimization, and instant alerts ensure security and efficiency from loading to delivery.\n\nCompliance & Safety Management\nFull regulatory compliance with DPR standards. Comprehensive insurance coverage, certified drivers, and rigorous safety protocols on every trip.",
+      "imagePrompt": "Photorealistic collage showing various aspects of professional petroleum logistics in Nigeria: tanker being loaded at a depot, GPS tracking tablet showing Nigerian routes, safety-certified driver in high-vis gear, modern filling station delivery, and safety inspection checklist. Clean, corporate style with emphasis on professionalism and safety. Nigerian context evident.",
+      "layout": "cards"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Zero Waste",
+      "copy": "The Zero Waste Difference\n\nEngineering Excellence\nLed by power infrastructure engineers who understand technical precision. We apply engineering rigor to logistics, ensuring optimal safety and efficiency in every operation.\n\nZero Tolerance Safety Culture\nOur name reflects our commitment: zero waste, zero incidents, zero compromise. Comprehensive safety training, regular vehicle maintenance, and strict adherence to all safety protocols.\n\nModern Fleet & Technology\nWell-maintained, compliant tankers equipped with advanced safety features. Real-time GPS tracking and digital documentation for complete transparency.\n\nNationwide Coverage\nStrategically located in Abuja with the capacity to serve clients across all Nigerian states. Reliable delivery schedules you can depend on.\n\nRegulatory Compliance\nFully licensed and compliant with all DPR regulations. Comprehensive insurance coverage and proper documentation for every delivery.",
+      "imagePrompt": "Split composition showing Zero Waste's competitive advantages: close-up of a pristine tanker truck with safety certifications visible, professional Nigerian engineer reviewing digital tablet with logistics data, safety equipment and inspection tools laid out professionally, and an aerial view of tankers on Nigerian highways. High-quality corporate photography style emphasizing professionalism and trust.",
       "layout": "grid"
     },
     {
       "id": "contact",
-      "name": "Get In Touch",
-      "copy": "Let's Create Something Beautiful Together\n\nReady to bring your fashion vision to life? Visit our studio or reach out to schedule a consultation. We're excited to be part of your style journey.\n\nMIKELDRE VISION WORLD\n\nAddress:\nHouse 33B Opposite Omega Church\nIdu-bola Karmo, Abuja\nNigeria\n\nPhone:\n0706 101 9255\n\nBusiness Hours:\nMonday - Saturday: 9:00 AM - 6:00 PM\nSunday: By Appointment Only\n\nConnect with us today and discover the difference that personalized fashion design can make.",
-      "imagePrompt": "Welcoming exterior of a modern fashion boutique in Abuja, Nigeria, with elegant signage, well-maintained storefront, tropical plants flanking the entrance, warm inviting lighting in evening, professional commercial photography, contemporary African architectural elements, clean and sophisticated aesthetic, photorealistic, 8k quality",
+      "name": "Contact Us",
+      "copy": "Get Started with Zero Waste Haulage\n\nReady to partner with Nigeria's most reliable petroleum transportation company? Contact us today for quotes, scheduling, or to discuss your specific haulage requirements.\n\nZero Waste Haulage & Logistics Limited\nHouse 33B Opposite Omega Church\nIdu-bola Karmo, Abuja\nNigeria\n\nPhone: +234 706 101 9255\nEmail: info@zerowasteng.org\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 6:00 PM\nSaturday: 9:00 AM - 2:00 PM\nSunday: Closed\n\nFor urgent inquiries or to request a quote, reach us on WhatsApp or call our dedicated customer service line.",
+      "imagePrompt": "Professional corporate office reception area in Abuja, Nigeria. Modern, clean design with Zero Waste branding visible. Nigerian receptionist at a sleek desk with computer. Large windows showing Abuja cityscape. Professional, welcoming atmosphere. Framed safety certifications and industry awards on walls. Warm, natural lighting creating an approachable yet professional environment.",
       "layout": "centered"
     }
   ],
   "contact": {
-    "phone": "0706 101 9255",
-    "email": "",
-    "address": "House 33B Opposite Omega Church Idu-bola Karmo, Abuja, Nigeria",
+    "phone": "+234 706 101 9255",
+    "email": "info@zerowasteng.org",
+    "address": "House 33B Opposite Omega Church, Idu-bola Karmo, Abuja, Nigeria",
     "whatsapp": "https://wa.me/2347061019255"
   }
 }
